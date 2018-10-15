@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ConfigurationFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomPages>
+    <CustomPageInfo>
+      <Guid> FE055BD4-905D-4E24-9FCC-67E5D7032B0C</Guid>
+      <FilePath>C:\SourceCode\Publish</FilePath>
+    </CustomPageInfo>
+  </CustomPages>
+  <ResourceFilesList>
+    <string>C:\SourceCode\RIPFestApp\WikiLoader\WikiLoaderProvider\bin\Debug\WikiLoaderProvider.dll</string>
+  </ResourceFilesList>
+  <Name>WikiLoaderConfig</Name>
+  <DestinationPath />
+  <WebUrlServer>http://192.168.137.64/Relativity.Services</WebUrlServer>
+  <DbCaseServer>192.168.137.64</DbCaseServer>
+  <DbCaseUserName>eddsdbo</DbCaseUserName>
+  <DbCaseUserPassword>mJ00pLuKJ3YQM7adAla/HA==</DbCaseUserPassword>
+  <RelUserName>relativity.admin@relativity.com</RelUserName>
+  <ApplicationVersion>...</ApplicationVersion>
+  <ApplicationGuid>8a2b6b81-534d-4b8f-b1b5-af81dd611883</ApplicationGuid>
+  <WorkspaceId>1025763</WorkspaceId>
+  <WorkspaceGuid>00000000-0000-0000-0000-000000000000</WorkspaceGuid>
+</ConfigurationFile>
